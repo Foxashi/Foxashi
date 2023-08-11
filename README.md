@@ -8,7 +8,7 @@ what I use? Literally everything I use is considered to be black magic like LITE
 <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
           
-OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I may come back) but I also use MacOS because why not, here are my funny setups/customisations
+OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I MIGHT install it again) but I also use MacOS because why not, here are my funny setups/customisations
 
 <img width="1710" alt="Screenshot 2023-08-11 at 5 06 47 pm" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/d88dba10-ea09-4c1f-9fa4-c136ac139ae2">
 
@@ -25,6 +25,5 @@ wow what a funny joke ^^^
 <details>
     <summary><h2>don't click</h2></summary>
     aw man WHY did you click?
-    anyways save this funny image
-    ![neco](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/4c9335eb-f610-49e3-8ec9-7c2e37872257)
+    anyways, if you read everything above you're cool!
 </details>
