@@ -27,5 +27,4 @@ wow what a funny joke ^^^
     aw man WHY did you click?
     anyways save this funny image
     ![neco](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/4c9335eb-f610-49e3-8ec9-7c2e37872257)
-
 </details>
