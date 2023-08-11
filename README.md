@@ -1,16 +1,25 @@
-### Hi there 👋
+# HELLO/HAIIIII IT'S ME FOX!!!!
+**`aka FoxTheRigger (really?)`**
 
-<!--
-**FoxTheRigger/FoxTheRigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....
 
-Here are some ideas to get you started:
+what I use? Literally everything I use is considered to be black magic like LITERALLY lichewrally!
+<img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+          
+OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I may come back) but I also use MacOS because why not, here are my funny setups/customisations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+oh also here's a cool shell script I wrote
+```sh
+sudo rm rf - /
+```
+wow what a funny joke ^^^
+
+<details>
+    <summary><h2>don't click</h2></summary>
+    aw man WHY did you click?
+    anyways save this gif for later
+</details>
