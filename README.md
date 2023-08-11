@@ -25,8 +25,7 @@ wow what a funny joke ^^^
 <details>
     <summary><h2>don't click</h2></summary>
     aw man WHY did you click?
-    anyways save this gif for later
-    ![JARVIIIIIIIIS](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/67f920b6-7d24-4f55-9a71-aa90e93668d4)
-    and maybe this...
-    ![image-removebg-preview_3](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/98441a82-e81f-4269-809d-04f59447fba9)
+    anyways save this funny image
+    ![neco](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/4c9335eb-f610-49e3-8ec9-7c2e37872257)
+
 </details>
