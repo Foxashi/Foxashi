@@ -12,7 +12,7 @@ OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I may come bac
 
 <img width="1710" alt="Screenshot 2023-08-11 at 5 06 47 pm" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/d88dba10-ea09-4c1f-9fa4-c136ac139ae2">
 
-and the deadass arch install I had for like 2 weeks (I had more, I just can't find the screenshots lmao!!!!!!!!!!!)
+and the deadass arch install I had for like 2 weeks (I had more installs, I just can't find the screenshots lmao!!!!!!!!!!!)
 
 ![arch](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/cd36f4dd-e7bf-4ad2-b25e-bb2232d46d54)
 
@@ -26,4 +26,7 @@ wow what a funny joke ^^^
     <summary><h2>don't click</h2></summary>
     aw man WHY did you click?
     anyways save this gif for later
+          ![JARVIIIIIIIIS](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/67f920b6-7d24-4f55-9a71-aa90e93668d4)
+    and maybe this...
+          ![image-removebg-preview_3](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/98441a82-e81f-4269-809d-04f59447fba9)
 </details>
