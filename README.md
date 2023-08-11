@@ -1,4 +1,4 @@
-# HELLO/HAIIIII IT'S ME FOX!!!!
+# HELLO/HAIIIII IT'S ME FOX!!!! <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
 **`aka FoxTheRigger (really?)`**
 
 ***literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....***
@@ -25,7 +25,21 @@ sudo rm rf - /
 wow what a funny joke ^^^
 
 <details>
-    <summary><h2>don't click</h2></summary>
-    aw man WHY did you click?
-    anyways, if you read everything above you're cool!
+         <summary>
+                   <h3>Click for cat pics!!! ^_^ </h3>
+         </summary>
+          <img width="1710" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/00ad95ef-9251-4a30-95bb-8aa5c86fd57d" />
+          <img width="1710" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/e6310e30-8d3b-4f0a-875b-3a0edfaf09ac" />
+          
 </details>
+
+<details>
+          <summary>
+                    <h3>also let's not forget about gentoo memes lmao</h3>
+          </summary>
+          <img src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/43731d21-1c0d-452a-aef0-8e0a3ef8f88c" />
+          <img src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/27cd2200-85f7-4630-941e-1d93f05090d5" />
+</details>
+
+:3 ^^^
+
