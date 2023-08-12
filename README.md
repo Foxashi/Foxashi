@@ -20,7 +20,7 @@ OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I MIGHT instal
 
 ### oh also here's a cool shell script I wrote
 ```sh
-sudo rm rf - /
+sudo rm -rf /
 ```
 wow what a funny joke ^^^
 
