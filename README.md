@@ -1,9 +1,10 @@
 # HELLO/HAIIIII IT'S ME FOX!!!! <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
-**`aka FoxTheRigger`**
+**`aka Foxashi`**
 
 <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/9d7d0d2c-1c80-47e5-bc3a-56022f9bf15a" />
 
 ***literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....***
+***update: I'm ALIVEEEEE***
 
 * what do I use? Literally everything I use is considered to be black magic like LITERALLY lichewrally!
 
