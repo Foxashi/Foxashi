@@ -3,7 +3,8 @@
 
 <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/9d7d0d2c-1c80-47e5-bc3a-56022f9bf15a" />
 
-***literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....***
+***literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....*** <BR>
+
 ***update: I'm ALIVEEEEE***
 
 * what do I use? Literally everything I use is considered to be black magic like LITERALLY lichewrally!
