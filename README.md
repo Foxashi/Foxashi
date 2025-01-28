@@ -39,5 +39,4 @@ wow what a funny joke ^^^
           <img src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/27cd2200-85f7-4630-941e-1d93f05090d5" />
 </details>
 
-:3 ^^^
 
