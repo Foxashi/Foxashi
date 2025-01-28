@@ -1,4 +1,4 @@
-# Hi! I'm Fox, welcome to my profile <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
+# Hi! I'm Fox, welcome to my profile! <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
 **`aka Foxashi`**
 
 ***I'm just cool af*** <BR>
@@ -14,6 +14,8 @@
    * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> (mods)
 
    * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> (discord bots and more)
+ 
+// also I'm currently learning japanese for fun lmao \\
            
 
 ### oh also here's a cool shell script I wrote
