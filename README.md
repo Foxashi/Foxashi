@@ -1,30 +1,22 @@
-# HELLO/HAIIIII IT'S ME FOX!!!! <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
+# Hi! I'm Fox, welcome to my profile <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/6258c5fc-2c8a-4322-aed6-dc71e39bdf27" />
 **`aka Foxashi`**
 
 <img width="50px" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/9d7d0d2c-1c80-47e5-bc3a-56022f9bf15a" />
 
-***literally I don't know what to say about me, all I have to say is that I'm alive and maybe, maybe, maybe cool idk just maybe....*** <BR>
+***I'm just cool af*** <BR>
 
-***update: I'm ALIVEEEEE***
+***update: I'm a different person now**
 
-* what do I use? Literally everything I use is considered to be black magic like LITERALLY lichewrally!
+* What do I program in:
 
-   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> (for stuff like FTC)
 
-   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> (game dev)
 
-   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> (mods)
 
-   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   * <img image-align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> (discord bots and more)
            
-          
-* OS? well uhhh, w-wi-w-win, forget it, I "used" to use Arch Linux (I MIGHT install it again) but I also use MacOS because why not, here are my funny setups/customisations/rices
-
-<img width="1710" alt="Screenshot 2023-08-11 at 5 06 47 pm" src="https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/d88dba10-ea09-4c1f-9fa4-c136ac139ae2">
-
-* *and the deadass arch install I had for like 2 weeks (I had more installs, I just can't find the screenshots lmao!!!!!!!!!!!)*
-
-![arch](https://github.com/FoxTheRigger/FoxTheRigger/assets/103516887/cd36f4dd-e7bf-4ad2-b25e-bb2232d46d54)
 
 ### oh also here's a cool shell script I wrote
 ```sh
